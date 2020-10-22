@@ -59,3 +59,4 @@ Reference to vim mappings.
 - [nerdtree](https://github.com/scrooloose/nerdtree/blob/master/doc/NERD_tree.txt)
 - [syntastic](https://github.com/scrooloose/syntastic/blob/master/doc/syntastic.txt)
 - [undotree](https://github.com/mbbill/undotree) - Graph Vim's undo tree so it is actually usable
+
